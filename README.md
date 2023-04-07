@@ -1,2 +1,1 @@
-# Hello-World-
-Projeto simples e clássico que ajuda os iniciantes a se familiarizarem com o Git e o GitHub. 
+O repositório "Hello World" é um lugar onde você pode encontrar exemplos simples e bem explicados de como criar o famoso "Hello, World!" em diversas linguagens de programação. É uma ótima fonte para iniciantes que querem aprender a programar ou para quem quer se familiarizar com uma nova linguagem.
